@@ -10,6 +10,7 @@ import Padre from './components/ComunicacionComponentes';
 import CicloVida from './components/ClicloVida';
 import AjaxApis from './components/AjaxApis';
 import ContadorHooks from './components/ContadorHooks';
+import ScrollHooks from './components/ScrollHooks';
 
 
 
@@ -39,11 +40,16 @@ function App() {
         <hr/>
         <CicloVida/> */}
        {/*  <AjaxApis/> */}
-       <ContadorHooks/>
+       {/* <ContadorHooks/>
        <hr/>
        <Estado/>
        <hr/>
-       <RenderizadoCondicional/>
+       <RenderizadoCondicional/> */}
+       {/* <RenderizadoElementos/> */}
+       {/* <EventosES6/> */}
+       {/* <ContadorHooks/>  */}
+ 
+       <ScrollHooks/>
       </header>
     </div>
   );
