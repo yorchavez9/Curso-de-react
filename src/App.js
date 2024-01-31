@@ -40,6 +40,10 @@ function App() {
         <CicloVida/> */}
        {/*  <AjaxApis/> */}
        <ContadorHooks/>
+       <hr/>
+       <Estado/>
+       <hr/>
+       <RenderizadoCondicional/>
       </header>
     </div>
   );
