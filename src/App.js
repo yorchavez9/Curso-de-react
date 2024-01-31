@@ -11,6 +11,7 @@ import CicloVida from './components/ClicloVida';
 import AjaxApis from './components/AjaxApis';
 import ContadorHooks from './components/ContadorHooks';
 import ScrollHooks from './components/ScrollHooks';
+import RelojHooks from './components/relojHooks';
 
 
 
@@ -49,7 +50,8 @@ function App() {
        {/* <EventosES6/> */}
        {/* <ContadorHooks/>  */}
  
-       <ScrollHooks/>
+       {/* <ScrollHooks/> */}
+       {/* <RelojHooks/> */}
       </header>
     </div>
   );
